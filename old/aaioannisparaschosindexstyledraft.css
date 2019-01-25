@@ -1,0 +1,8 @@
+body {
+    background-color: cornflowerblue;
+    font-family: Britannic;
+}
+
+.nav ul {
+    display: inline
+}
